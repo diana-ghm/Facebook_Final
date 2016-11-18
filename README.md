@@ -51,3 +51,9 @@ A Hackers Journey
                     <td>2</td>
                 </tr>
             </table>
+            
+> You should consider buying these for the hackathon:
+> 
++[Blanket](https://www.amazon.co.uk/Nightzone-Soft-Luxury-Throw-Blanket/dp/B01H2SSTFA/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1479481159&sr=1-1&keywords=blanket)
++[Headphones](https://www.amazon.co.uk/Foldable-Headphones-Shareport-Microphone-Termichy/dp/B01LZKQKGS/ref=sr_1_17?s=kitchen&ie=UTF8&qid=1479481234&sr=1-17&keywords=headphone)
++[Eye mask](https://www.amazon.co.uk/Comfortable-Lightweight-Purple-Adjustable-Travel/dp/B01LL5ACFK/ref=sr_1_3?s=kitchen&ie=UTF8&qid=1479481188&sr=1-3-spons&keywords=eye+mask&psc=1)
