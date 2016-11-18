@@ -1,5 +1,5 @@
-A Hackers Journey
-=================
+A Hackers Journey in San Francisco
+==================================
 
 > A hackathon is an event, typically lasting several days, in which a large number of people meet to engage in collaborative 
 > computer programming. Hackathons typically start with one or more presentations about the event, as well as about the specific subject, 
@@ -18,6 +18,10 @@ A Hackers Journey
 >
 > "Hackathons are a big tradition at Facebook. They serve as the foundation for some great (and not so great) ideas. It gives our 
 > employees the opportunity to try out new ideas and collaborate with other people in a fun environment."
+>
+> San Francisco, in northern California, is a hilly city on the tip of a peninsula surrounded by the Pacific Ocean and San Francisco Bay. 
+> It's known for its year-round fog, iconic Golden Gate Bridge, cable cars and colorful Victorian houses. The Financial District's 
+> Transamerica Pyramid is its most distinctive skyscraper. In the bay sits Alcatraz Island, site of the notorious former prison.
 > 
 > Here are some interesting GitHub projects you can check before going to a hackathon:
 >
