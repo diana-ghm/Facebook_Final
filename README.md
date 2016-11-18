@@ -15,7 +15,10 @@ A Hackers Journey
 > of judges select the winning teams, and prizes are given. At many hackathons, the judges are made up of organizers and sponsors. 
 > 
 > You can find more information on [Wikipedia](https://en.wikipedia.org/wiki/Hackathon).
-
+>
+> "Hackathons are a big tradition at Facebook. They serve as the foundation for some great (and not so great) ideas. It gives our 
+> employees the opportunity to try out new ideas and collaborate with other people in a fun environment."
+> 
 > Here are some interesting GitHub projects you can check before going to a hackathon:
 >
 + [Visualisation toolkit](https://github.com/Khan/tota11y)
