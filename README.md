@@ -13,10 +13,6 @@ A Hackers Journey
 > links and progress on social media, suggest a place for open source code and generally make it possible for people to share, learn from 
 > and possibly build from the ideas generated and initial work completed. There is sometimes a contest element as well, in which a panel 
 > of judges select the winning teams, and prizes are given. At many hackathons, the judges are made up of organizers and sponsors. 
-> At BarCamp-style hackathons, that are organized by the development community, such as iOSDevCamp, the judges are usually made up of
-> peers and colleagues in the field. Such prizes are sometimes a substantial amount of money: a social gaming hackathon at the TechCrunch 
-> Disrupt conference offered $250,000 in funding to the winners, while a controversial 2013 hackathon run by Salesforce.com had a 
-> payout of $1 million to the winners, billed as the largest-ever prize.
 > 
 > You can find more information on [Wikipedia](https://en.wikipedia.org/wiki/Hackathon).
 
