@@ -61,4 +61,4 @@ A Hackers Journey
 + [Headphones](https://www.amazon.co.uk/Foldable-Headphones-Shareport-Microphone-Termichy/dp/B01LZKQKGS/ref=sr_1_17?s=kitchen&ie=UTF8&qid=1479481234&sr=1-17&keywords=headphone)
 + [Eye mask](https://www.amazon.co.uk/Comfortable-Lightweight-Purple-Adjustable-Travel/dp/B01LL5ACFK/ref=sr_1_3?s=kitchen&ie=UTF8&qid=1479481188&sr=1-3-spons&keywords=eye+mask&psc=1)
 > 
-> Read more about hackathons on [Twitter](https://twitter.com/hackathons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+> Read more about hackathons on [Twitter](https://twitter.com/hackathons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) or [Medium](https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601#.ap8wyihy4)
